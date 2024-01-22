@@ -2,3 +2,5 @@
 GATE-CSE Links
 
 - https://cosmos-sajal.github.io/gatenotes
+
+- https://gatecsebyjs.github.io/
